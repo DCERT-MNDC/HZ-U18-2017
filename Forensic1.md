@@ -4,5 +4,5 @@
 
 **Wireshark програмын тусламжтай бодлогыг хялбар бодох боломжтой юм**
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/DCERT-MNDC/HZ-U18/blob/master/1.PNG)
+[![N|Solid](https://github.com/DCERT-MNDC/HZ-U18/blob/master/1.PNG)](https://github.com/DCERT-MNDC/HZ-U18/blob/master/1.PNG)
 
