@@ -11,3 +11,5 @@
 
 
 [![N|Solid](https://github.com/DCERT-MNDC/HZ-U18/blob/master/3.PNG)](https://github.com/DCERT-MNDC/HZ-U18/blob/master/3.PNG)
+
+## Флаг: HZU18{CONVERT_YOUR_IMAGES_TO_BASE64}
