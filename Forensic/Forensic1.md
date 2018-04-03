@@ -4,7 +4,7 @@
 
 - Wireshark програмын тусламжтай бодлогыг хялбар бодох боломжтой
 
-1. Өгөгдлийг харахад HTTP протоколын GET хүсэлтээр флаг авах оролдогууд хэд хэд харагдаж байна.
+1. Өгөгдлийг харахад HTTP протоколын GET хүсэлтээр флаг авах оролдлогууд хэд хэд харагдаж байна.
 
 
 [![N|Solid](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/2.PNG)](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/2.PNG)
