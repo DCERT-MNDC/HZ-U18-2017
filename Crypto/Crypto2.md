@@ -1,6 +1,6 @@
 ## Унш унш унш бас дахин унш... (80pts)
 
-**Энэ бодлогт zip файл өгөгдсөн ба дотроо Readme текст болон Cipher текстийг агуулсан байна.**
+**Энэ бодлогод zip файл өгөгдсөн ба дотроо Readme текст болон Cipher текстийг агуулсан байна.**
 
 
 [readme файл](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/readme)
