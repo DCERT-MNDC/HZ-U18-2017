@@ -9,7 +9,7 @@
 
 1. **cipher** файлд хамгийн дээд тал нь 142 гэсэн тоо байсан ба sublime editor дээр **readme** файлыг харахад мөрийн тоо 142 байна.
 
-[![N|Solid](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/5.PNG)](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/6.PNG)
+[![N|Solid](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/6.PNG)](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/6.PNG)
 
 2. Энэ маягаар мөр бүрээс тэмдэгтийг цуглуулан флагийг гаргана
 
