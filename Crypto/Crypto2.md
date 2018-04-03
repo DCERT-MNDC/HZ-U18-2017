@@ -3,8 +3,9 @@
 **Энэ бодлогт zip файл өгөгдсөн ба дотроо Readme текст болон Cipher текстийг агуулсан байна.**
 
 
-[readme](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/readme)
+[readme файл](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/readme)
 
+[cipher файл](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/cipher)
 
 1. Зураг нь хөдөлж буй дүрсэн тэмдэгтүүд байсан ба бодлогын нэр **Dance dance dance** байсан тул доорх маягаар хайлтыг хийж үзэв
 
