@@ -2,7 +2,7 @@
 
 ### Жишээ:
 
-- WEP-ийг сул болгож буй алгоримтыг нэрлэнэ үү Flag Format: HZU18{your_answer}
+- WEP-ийг сул болгож буй алгоритмыг нэрлэнэ үү Flag Format: HZU18{your_answer}
 
 ## Флаг: HZU18{RC4}
 
