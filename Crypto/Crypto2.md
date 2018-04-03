@@ -7,14 +7,11 @@
 
 [cipher файл](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/cipher)
 
-1. Зураг нь хөдөлж буй дүрсэн тэмдэгтүүд байсан ба бодлогын нэр **Dance dance dance** байсан тул доорх маягаар хайлтыг хийж үзэв
+1. **cipher** файлд хамгийн дээд тал нь 142 гэсэн тоо байсан ба sublime editor дээр **readme** файлыг харахад мөрийн тоо 142 байна.
 
+[![N|Solid](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/5.PNG)](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/6.PNG)
 
-[![N|Solid](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/5.PNG)](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/5.PNG)
+2. Энэ маягаар мөр бүрээс тэмдэгтийг цуглуулан флагийг гаргана
 
-2. Эхний илэрцийг шалгахад тэмдэгтүүдийн хэлбэр адил байсан учир тэмдэгтүүдийг орлуулж Decrypt хийн флагийг гаргав.
-
-
-[![N|Solid](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/4.PNG)](https://github.com/DCERT-MNDC/HZ-U18/blob/master/include/4.PNG)
 
 ### Флаг: HZU18{Wow_How_much_time_did_you_spend_?_Anyway_you_are_good.}
